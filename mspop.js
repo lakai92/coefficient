@@ -1,2 +1,2 @@
-var btnms = true
-var buttonText = Тестовое сообщение
+var btnms = true;
+var buttonText = 'Тестовое сообщение';
