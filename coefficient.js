@@ -1,1 +1,1 @@
-var coefficient = 0.57;
+var coefficient = 0.51;
