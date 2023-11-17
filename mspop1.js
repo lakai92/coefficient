@@ -1,4 +1,4 @@
 {
-  "btnms": false,
+  "btnms": true,
   "text": "some text."
 }
