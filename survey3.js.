@@ -1,6 +1,6 @@
 {
   "btnms": true,
-  "html": "<h2>Опросник</h2><p>Вопрос: Вы удовлетворены текущим состоянием дел?</p><button id='yesBtn'>Да</button><button id='noBtn'>Нет</button>",
-  "style": "<style>.btnms { background-color: #f0f0f0; z-index: 2; position: absolute; background: aliceblue; margin: auto; text-align: center; width: 100%; padding: 20px; } #yesBtn { background: black }</style>",
-  "script": "<script>console.log('Скрипт загружен успешно'); document.getElementById('yesBtn').addEventListener('click', function() { console.log('Клик на Да'); handleAnswer('Да'); }); document.getElementById('noBtn').addEventListener('click', function() { console.log('Клик на Нет'); handleAnswer('Нет'); }); function handleAnswer(answer) { console.log('handleAnswer вызван с ответом:', answer); sendToTelegram(answer); } </script>"
+  "html": "<h2>Опросник</h2><p>Вопрос: Вы удовлетворены текущим состоянием дел?</p>",
+  "style": "<style></style>",
+  "script": "<script></script>"
 }
