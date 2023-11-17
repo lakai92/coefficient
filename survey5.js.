@@ -1,6 +1,0 @@
-{
-  "btnms": true,
-  "html": "<h2>Опросник</h2><p>Вопрос: Вы удовлетворены текущим состоянием дел?</p><button id='yesBtn'>Да</button><button id='noBtn'>Нет</button>",
-  "style": "<style>.btnms { background-color: #f0f0f0; padding: 10px; margin: 10px; }</style>",
-  "script": "<script>document.getElementById('yesBtn').addEventListener('click', function() { handleAnswer('Да'); });document.getElementById('noBtn').addEventListener('click', function() { handleAnswer('Нет'); });</script>"
-}
