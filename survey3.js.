@@ -1,6 +1,6 @@
 {
   "btnms": true,
   "html": "<h2>Опросник</h2><p>Вопрос: Вы удовлетворены текущим состоянием дел?</p>",
-  "style": "<style>background: rgba( 24, 35, 55, 0.75 ); box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 ); backdrop-filter: blur( 16px ); -webkit-backdrop-filter: blur( 16px ); border-radius: 10px;</style>",
+  "style": "<style></style>",
   "script": "<script></script>"
 }
