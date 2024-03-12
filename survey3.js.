@@ -1,7 +1,6 @@
 {
   "btnms": true,
-  "html": "<h2>Сообщение от</h2>",
+  "html": "<h2>Сообщение от</h2><button id='openCustomModalBtn'>Открыть CustomModal</button>",
   "style": "<style></style>",
   "script": "<script></script>",
-  "button": "<button id='openCustomModalBtn'>Открыть CustomModal</button>"
 }
