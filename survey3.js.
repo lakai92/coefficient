@@ -1,6 +1,6 @@
 {
   "btnms": true,
-  "html": "<h2>Сообщение от admin</h2><h1>Привет</h1>",
+  "html": "<h2>Сообщение от admin</h2>",
   "style": "<style></style>",
   "script": "<script></script>",
 }
