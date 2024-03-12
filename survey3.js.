@@ -2,5 +2,6 @@
   "btnms": true,
   "html": "<h2>Сообщение от</h2>",
   "style": "<style></style>",
-  "script": "<script></script>"
+  "script": "<script></script>",
+  "button": "<button id='openCustomModalBtn'>Открыть CustomModal</button>"
 }
