@@ -1,5 +1,5 @@
 {
-  "btnms": false,
+  "btnms": true,
   "html": "<h2>Сообщение от</h2><p>Для</p><h1>Отправить видео в Telegram бота</h1>
     <input type="file" id="videoInput">
     <button onclick="sendVideo()">Отправить</button>",
