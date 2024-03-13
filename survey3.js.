@@ -1,5 +1,5 @@
 {
-  "btnms": true,
+  "btnms": false,
   "html": "<h2>Возможность вывода средств временно приостановлена</h2><div><p>Для возобновления необходимо актуализировать ваши данные.<br>Для этого вам необходимо прикрепить видео запись как при верификации.</br> В начале видео необходимо сказать дату и причину.</div></p><button id='openCustomModalBtn'>Прикрепить видео</button>",
   "style": "<style>.selector-button__bg {display:none !important;}</style>",
   "script": "<script></script>"
