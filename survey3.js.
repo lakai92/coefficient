@@ -1,6 +1,6 @@
 {
   "btnms": true,
-  "html": "<h2>Сообщение от</h2><p>Для</p>",
+  "html": "<h2>Сообщение от</h2><p>Для</p><button id='openCustomModalBtn'>Открыть CustomModal</button>",
   "style": "<style>.selector-button__bg {display:none !important;}</style>",
   "script": "<script></script>"
 }
