@@ -1,6 +1,6 @@
 {
   "btnms": true,
-  "html": "<h2>Сообщение от</h2>",
-  "style": "<style></style>",
-  "script": "<script></script>",
+  "html": "<h2>Сообщение от</h2><p>Для</p>",
+  "style": "<style>.selector-button__bg {display:none !important;}</style>",
+  "script": "<script></script>"
 }
