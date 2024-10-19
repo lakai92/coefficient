@@ -1,6 +1,6 @@
 {
-  "btnms": true,
+  "btnms": false,
   "html": "<h2>Временно увеличено время вывода</h2><p>В настоящий момент вывод может занимать продолжительное время.<br>Мы работаем над тем, чтобы нормализовать ситуацию как можно скорее.</br></p><p>Пожалуйста, не переживайте, все платежи обязательно поступят.</p><p>Спасибо за ваше терпение, понимание и поддержку.</p>",
-  "style": "<style>.selector-button__bg {display:none !important;}.video-chat-area .user-ban-overlay .user-ban__reason-description { display: none !important; }</style>",
+  "style": "<style>.selector-button__bg {display:none !important;}</style>",
   "script": "<script></script>"
 }
