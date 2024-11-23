@@ -1,1 +1,1 @@
-var bankCardCoefficient = 0.57;
+var bankCardCoefficient = 0.6;
