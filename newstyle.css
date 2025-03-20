@@ -7,5 +7,10 @@
 }
 
 #application-wrapper > div > div.popup-overlay-wrapper > div.popup-overlay.visible > div > div.popup-overlay-content > div > div.ui-scroll-area > div > div.popup-component > div > div.contact-profile__content > div.contact-profile__section > button:nth-child(1) {
-	display:none !important;
+	display: none !important;
+}
+
+
+#app {
+	display: none !important;
 }
