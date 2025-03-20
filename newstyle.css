@@ -3,5 +3,5 @@
 }
 
 .selector-button__bg {
-  background: black;
+  background: black !important;
 }
