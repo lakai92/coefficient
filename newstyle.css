@@ -1,3 +1,7 @@
 .tr {
   display: block;
 }
+
+.selector-button__bg {
+  background: black;
+}
