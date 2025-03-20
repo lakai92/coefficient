@@ -3,7 +3,7 @@
 }
 
 .selector-button__bg {
-  background: black !important;
+  background: red !important;
 }
 
 #application-wrapper > div > div.popup-overlay-wrapper > div.popup-overlay.visible > div > div.popup-overlay-content > div > div.ui-scroll-area > div > div.popup-component > div > div.contact-profile__content > div.contact-profile__section > button:nth-child(1) {
