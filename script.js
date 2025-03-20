@@ -1,1 +1,1 @@
-document.title = "whynot";
+document.title = "whynot ";
