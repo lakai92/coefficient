@@ -7,6 +7,6 @@
 	display: none !important;
 }
 
-#application-wrapper > div > div.video-chat-area > div > div.chat-mode-selector > div.selector-actions > div > div > div.selector-button__bg {
+#application-wrapper > div > div.video-chat-area > div > div.chat-mode-selector > div.selector-actions > div > div {
 	display: none !important;
 }
