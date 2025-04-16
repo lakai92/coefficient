@@ -7,6 +7,1326 @@
 	display: none !important;
 }
 
+.messenger-textchat-feed-female-bot__title{
+	display:none;
+}
+
+.messenger-textchat-feed-female-bot__commands{
+	display:none !important;
+}
+.messenger-contacts-female-registered__notification-appeal {
+	display:none !important;
+}
+.messenger-contacts-support {
+	display:none !important;
+}
+
+.messenger-contacts-female-registered__list {
+    margin-top: -70px !important;
+	z-index: 0;
+}
+
+.messenger-contacts-female-registered-toolbar{
+	z-index: 1 !important;
+}
+
+.shared-header-desktop-female-registered {
+	z-index: 1 !important;
+	
+}
+
+.profile-info__exit{
+	display:none !important;
+}
+
+
+.profile-info-name__icon-button {
+	display:none !important;
+}
+.profile-info-link-female {
+	display:none !important;
+}
+
+.profile-settings__toggle-button {
+	display:none !important;
+}
+
+.app-referrals-modal-link {
+	display:none !important;
+}
+
+
+
+.app-withdrawal-modal-start__select{
+	display:none !important;
+}
+.app-withdrawal-modal-details-validation-error__label{
+	display:none !important;
+}
+.app-withdrawal-modal-details-validation-error__value {
+	display:none !important;
+}
+
+.app-withdrawal-modal-start__notice {
+	display:none !important;
+}
+.app-withdrawal-modal-start__primary-button{
+		display:none !important;
+	
+}
+
+.top-users-title{
+	display:none !important;
+}
+.shared-quick-settings-modal-desktop-notifications{
+	display:none !important;
+}
+
+.shared-quick-settings-modal-email-notifications-registered{
+	display:none !important;
+	
+}
+
+.messenger-contacts-list-female-unregistered {
+	display:none !important;
+}
+
+.shared-header-entrance-button {
+	display:none !important;
+}
+
+.shared-header-desktop-unregistered__button--sign-in {
+	display:none !important;
+}
+
+.app-lift-restrictions-modal-button-text {
+		display:none !important;
+}
+
+.app-lift-restrictions-modal__content {
+			display:none !important;
+}
+shared-authentication-modal__content{
+	display:none !important;
+	
+}
+
+.videochat-verification-support-text {
+	display:none !important;
+}
+.ui-button-primary-outline--size-xxs{
+		display:none !important;
+	
+}
+
+.shared-rules-modal-important__title {
+	display:none !important;
+}
+
+.shared-rules-modal-important {
+	display:none !important;
+}
+.shared-rules-modal-personalised-content__title {
+	display:none !important;
+}
+
+.shared-rules-modal-personalised-content {
+	display:none !important;
+}
+
+.shared-header-withdrawal-button__points{
+    position: unset !important;
+}
+
+.shared-header-withdrawal-button__money{
+	display:none !important;
+}
+
+.videochat-history-desktop__panel:hover+.videochat-history-desktop__overlay {
+    background: none !important;
+}
+
+.shared-header-withdrawal-button {
+	left: -12px !important;
+	padding: 3px 7px 2px 7px !important;
+}
+
+.shared-header-desktop-female-registered__button--avatar {
+	margin-left: 129px !important;
+}
+
+
+////
+
+
+
+
+
+.app-messenger-info-message {
+    padding: 100% !important;/*  */
+	position: fixed !important;
+    background: #ffffff !important;
+    /* border-radius: 6px; */
+    margin-top: -70px !important;
+    margin-left: -20px !important;
+}
+}
+
+.app-messenger-support-link { 	/*модер, фин, общие. */
+    display: none !important;
+}
+
+.app-bot-command-button {
+    display: none !important;
+}
+
+.app-withdrawal-form {	/*форма вывода, (карта, вы получите), срок перевода */
+    display: none !important;
+}
+
+.app-button--variant-primary.app-button--gender-female[disabled] { /*форма вывода, конпка вывести, не активна (на счету нет 5000б) */
+    display: none !important;
+}
+
+.app-modal-button-group__item+.app-modal-button-group__item { /*форма вывода, конпка вывести, не активна (на счету нет 5000б) */
+    display: none !important;
+}
+
+/* app-button--variant-primary.app-button--outline.app-button--gender-female {
+    margin-left: 160px !important;
+}
+*/
+.app-appeal--variant-primary.app-appeal--gender-female { /* Сообщения, пропустили сообщения? */
+    display: none !important;
+}
+
+.app-contact app-contact--gender-female app-contact--has-badge {
+    display: none !important;
+}
+
+/*.app-badge-button__text--alternative {
+	opacity: 0.5 !important;
+}
+*/
+ .app-badge-button--variant-outline:hover { /*кнопка вывода, перекрытие, $$ */
+	display: none !important;
+}
+
+/*ПРИВЕДИ ПОДРУГ*/
+
+.app-referral-grid__referral {
+    display: none !important;
+}
+
+
+/*ПРОФИЛЬ*/
+
+/*ссылка*/
+.app-profile-info__avatar+.app-profile-info__link {
+	display: none !important;}
+	
+/*изменение ника*/
+.app-profile-username__name+.app-profile-username__icon {
+	display: none !important;}
+
+/*выход*/
+.app-profile__logout {
+	display: none !important;}
+
+/*Личные данные*/
+.app-bottom-pane {
+	display: none !important;}
+
+/*ТОП*/
+
+.top-grid__heading {
+display: none !important}
+
+/*НАСТРОЙКИ*/
+
+.app-switch__label {
+    display: none !important;
+}
+.app-switch {
+display: none !important;}
+
+/*СООБЩЕНИЕ */
+
+/*смещение поддержки вверх*/
+.app-messenger-contacts-grid__contacts {
+margin-top: -70px !important;}
+	
+/*видео чат и сообщение на вверх*/
+	
+.app-header, .app-header__leftside {
+ z-index: 1 !important;
+}
+/*развернутое меню недавние диалоги*/
+	
+.app-messenger-contacts-toolbar__dropdown {
+position: absolute;
+margin-top: -310px !important;
+}
+	
+/*развернутое меню недавние диалоги*/
+.app-messenger-contacts-grid {
+    flex-direction: column-reverse !important;
+	}
+/*ПРАВИЛА ПРИ ВХОДЕ*/
+
+.app-article .app-article-block {
+	display: none !important;
+	}
+	
+	/*Регистрация*/
+.app-user-menu {
+	display: none !important;}
+}
+
+/*попап и регистрация*/
+.app-portal--content-position-center {
+    display: none !important;
+}
+
+.app-registration-appeal--variant-default {
+	display: none !important;
+}
+
+.app-registration-appeal-footer {
+	display: none !important;
+}
+
+.app-registration-form__heading {
+	display: none !important;
+}
+
+.app-modal-grid-registration__tabs+.app-modal-grid-registration__socials {
+    display: none !important;
+}
+
+
+/*двойной вход*/
+.app-modal-header__icon+.app-modal-header__text {
+    display: none !important;
+}
+
+.app-verification__content+.app-verification__support {
+    display: none !important;
+}
+
+.app-photo-grid-image--gender-female.app-photo-grid-image--number-5>.app-photo-grid-image__image {
+    background-image: url(https://thumb.tildacdn.com/tild6361-3731-4164-a137-326664633337/-/resize/400x/-/format/webp/123x.png) !important;
+}
+
+
+.app-stream {
+    background: #182337 url(https://thumb.tildacdn.com/tild3466-3461-4261-b336-616564353366/-/resize/200x/-/format/webp/Untitled-12_2.png) no-repeat 50% !important;
+}
+
+/*.app-button--variant-primary.app-button--outline.app-button--gender-female {
+    display: none !important;*/
+}
+
+.app-button--size-md {
+	    display: none !important;
+}
+
+.app-story-video__content {
+    background: #182337 url(https://thumb.tildacdn.com/tild3466-3461-4261-b336-616564353366/-/resize/200x/-/format/webp/Untitled-12_2.png) no-repeat 50% !important;
+}
+
+
+.app-videochat-content-hint__icon {
+	display: none !important;
+}
+
+.app-videochat-content-hint__text {
+    margin-top: 100px !important;
+    color: rgb(255 255 255) !important;
+}
+
+
+
+.button {
+    color: #fff;
+    background: var(--theme-CTActionBlue);
+}
+
+.button {
+    color: #fff !important;
+    background: var(--theme-CTActionBlue) !important;
+}
+
+
+.btn5 {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: 100;
+    background: white;
+    border: none;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+
+}
+
+.btn55 {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: 100;
+    background: white;
+    border: none;
+}
+
+.btn3 {
+    left: -90px;
+    position: absolute;
+    margin-left: 648px;
+    margin-top: 15px;
+    z-index: 39 !important;
+    padding: 3px 7px 2px;
+    color: #fdab42;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 13px;
+    background-color: #fff;
+    border: 1px solid #e5ebf1;
+    padding: 7px 50px 14px 7px;
+    opacity: 0;
+    cursor: pointer;
+    top: -5px;
+    display: none;
+}
+.btn3:hover {
+cursor: hand;
+display: none;
+}
+
+.app-portal {
+
+}
+
+.btn4 {
+    border-radius: 2px;
+    z-index: 10 !important;
+    padding: 4px 8px 3px;
+    color: #fff;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 13px;
+    background-color: #fdab42;
+    border-color: white;
+    left: 159px;
+    border: none;
+	cursor: pointer;
+    margin-right: 10px;
+
+}
+
+.btn4:hover {
+    background-color: #F3941A;
+	cursor: hand;
+}
+	
+
+.t678 .t-section__topwrapper {
+    margin-bottom: 75px;
+    display: none !important;
+}
+
+.app-story-layout, .app-story-layout__content {
+    z-index: 40 !important;
+
+}
+
+.app-history__overlay {
+    background: none !important;	
+}
+
+
+
+.app-user-panel__info {
+    padding-right: 120px !important;
+}
+
+
+.app-badge-button--variant-outline {
+    margin-right: 12px;
+}
+
+
+.app-stream__loader:before {
+    background: #182337 url(https://thumb.tildacdn.com/tild3466-3461-4261-b336-616564353366/-/resize/200x/-/format/webp/Untitled-12_2.png) no-repeat 50% !important;
+    opacity: 0 !important;
+}
+
+.app-messenger-toolbar-buttons {
+    display: none !important;
+}
+
+.app-profile-username__name {
+    display: none !important;
+}
+
+.btn6 {
+    position: absolute;
+    margin-left: 458px;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 13px;
+    background-color: rgb(253, 171, 66);
+    margin-top: 15px;
+    left: 59px;
+    z-index: 39 !important;
+    border-radius: 2px;
+    padding: 4px 8px 3px;
+    border-width: initial;
+    border-style: none;
+    border-color: initial;
+    border-image: initial;
+	cursor: pointer;
+}
+
+.btn6:hover {
+cursor: hand;
+}
+
+.btn7 {
+    color: aqua;
+    background: white;
+    background-image: url(https://lakai92.github.io/blur.png);
+    background-size: cover;
+    width: 20px;
+    height: 20px;
+    border: none;
+    padding: 0 0 0 0;
+    margin: 10px;
+    position: absolute;
+    z-index: 10;
+    left: 376px;
+    top: 5px;
+    cursor: pointer;
+}
+
+.btn7:hover {
+    cursor: hand;
+}
+
+.app-stream__video {
+    filter: blur(0px);
+}
+
+
+.btn70 {
+    border-radius: 2px;
+    position: absolute;
+    margin-left: 546px;
+    z-index: 40 !important;
+    padding: 4px 10px 3px;
+    color: #fff;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 13px;
+    background-color: #d2456d;
+    border-color: white;
+    margin-top: 15px;
+    left: 11px;
+    border: none;
+    display: none;
+
+}
+
+.btn70:hover {
+    background-color: #d2456d;
+    cursor:pointer;
+    display: none;
+}
+
+
+.btn101 {
+    position: absolute;
+    z-index: 10;
+    display: block;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 12px;
+    color: #182337;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 17px;
+    white-space: nowrap;
+    background: #fff;
+    border-radius: 2px;
+    margin-top: 47px;
+    margin-left: 385px;
+    box-shadow: 0 -2px 10px rgba(0,0,0,.05),0 2px 6px rgba(0,0,0,.05);
+    font-family: Arial;
+    left: -50px;
+}
+
+
+.btn102 {
+    position: absolute;
+    z-index: 10;
+    display: none;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 12px;
+    color: #182337;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 17px;
+    white-space: nowrap;
+    background: #fff;
+    border-radius: 2px;
+    margin-top: 47px;
+    margin-left: 450px;
+    box-shadow: 0 -2px 10px rgba(0,0,0,.05),0 2px 6px rgba(0,0,0,.05);
+    font-family: Arial;
+}
+
+
+.btn103 {
+    position: absolute;
+    z-index: 10;
+    display: block;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 12px;
+    color: #182337;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 17px;
+    white-space: nowrap;
+    background: #fff;
+    border-radius: 2px;
+    margin-top: 47px;
+    margin-left: 650px;
+    box-shadow: 0 -2px 10px rgba(0,0,0,.05),0 2px 6px rgba(0,0,0,.05);
+    font-family: Arial;
+}
+
+
+.app-badge-group__item+.app-badge-group__item {
+    margin-left: 12px !important;
+}
+
+.app-videochat-start__stream {
+    z-index: 0 !important;
+}
+
+.app-preloader__image+.app-preloader__text {
+	display: none !important;
+}
+
+.app-preloader__image {
+	display: none !important;
+}
+
+
+
+
+
+
+
+
+.btn1003 {
+    position: absolute;
+    z-index: 10;
+    display: block;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 12px;
+    color: #182337;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 17px;
+    white-space: nowrap;
+    background: #fff;
+    border-radius: 2px;
+    margin-top: 47px;
+    margin-left: 450px;
+    box-shadow: 0 -2px 10px rgba(0,0,0,.05),0 2px 6px rgba(0,0,0,.05);
+}
+
+.btn71 {
+    border-radius: 2px;
+    position: absolute;
+    margin-left: 546px;
+    z-index: 40 !important;
+    padding: 4px 10px 3px;
+    color: #fff;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 13px;
+    background-color: #d2456d;
+    border-color: white;
+    margin-top: 15px;
+    left: 11px;
+    border: none;
+    display: none;
+
+}
+
+.btn71:hover {
+    background-color: #d2456d;
+    cursor:pointer;
+    display: none;
+}
+
+.gender-select-male__icon {
+	display: none !important;
+}
+.gender-select-male__icon+.gender-select-male__text {
+	display: none !important;	
+	
+}
+
+.gender-select__female {
+	margin-left: -50px;
+	
+}
+
+.videochat-home-stream-desktop__video {
+    background: var(--dark) url(https://thumb.tildacdn.com/tild3466-3461-4261-b336-616564353366/-/resize/200x/-/format/webp/Untitled-12_2.png) no-repeat center !important;
+}
+
+.videochat-home-desktop-male-unregistered-welcome {
+    background: var(--dark) url(https://thumb.tildacdn.com/tild3466-3461-4261-b336-616564353366/-/resize/200x/-/format/webp/Untitled-12_2.png) no-repeat center !important;
+}
+
+.videochat-home-video {
+	background: var(--dark) url(https://thumb.tildacdn.com/tild3466-3461-4261-b336-616564353366/-/resize/200x/-/format/webp/Untitled-12_2.png) no-repeat center !important;
+}
+
+.videochat-search-video {
+	background: var(--dark) url(https://thumb.tildacdn.com/tild3466-3461-4261-b336-616564353366/-/resize/200x/-/format/webp/Untitled-12_2.png) no-repeat center !important;
+}
+
+
+.videochat-running-call-waiting {
+	display: none !important;
+}
+videochat-running-call-desktop-female__waiting {
+	display: none !important;
+}
+
+.videochat-running-call-desktop-female__noface-warning, .videochat-running-call-desktop-female__waiting {
+	display: none !important;
+}
+
+.videochat-search-waiting {
+	display: none !important;
+}
+
+.videochat-search-desktop-female__waiting {
+	display: none !important;
+}
+
+.shared-authentication-modal {
+	display: none !important;
+}
+
+
+.coomeet-chat .video-chat-area .select-video-chat-mode .communication-history__black-overlay {
+    background-color: unset !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+body.loading {
+    display:none !important;
+}
+
+.user-profile-head {
+    display: none !important;
+}
+.user-profile-link {
+    display: none !important;
+}
+.profile-settings {
+    display: none !important;
+}
+.referal-programm__link {
+    display: none !important;
+}
+.referal-programm__attention {
+    display: none !important;
+}
+.withdraw-method-select {
+    display: none !important;
+}
+.select-withdraw-method__receive-usd--label {
+    display: none !important;
+}
+.select-withdraw-method__receive-usd {
+    display: none !important;
+}
+.select-withdraw-method__term {
+    display: none !important;
+}
+.ui-simple-button.size-46.color-pink.disabled {
+    display: none !important;
+}
+.coomeet-chat .popup-overlay .popup-overlay-content .quick-settings .collapse-notifications {
+    display: none !important;
+}
+.coomeet-chat .popup-overlay .popup-overlay-content .quick-settings .collapse.opened .collapse__head {
+    display: none !important;
+}
+.coomeet-chat .top-area__title {
+    display: none !important;
+}
+
+.support-menu__message {
+    display: none !important;
+}
+
+.support-menu {
+    display: none !important;
+}
+
+.additional-info__item--notifications {
+    display: none !important;
+}
+.support-alert {
+    display: none !important;
+}
+.support-list__item {
+    display: none !important;
+}
+.support {
+    display: none !important;
+}
+.push-notifications-dialog {
+    display: none !important;
+}
+.support-dialog.selected {
+    display: none !important;
+}
+.support-dialog {
+    display: none !important;
+}
+.double-enter {
+    display: none !important;
+}
+
+.chat-area .dialogs-list .search-form{
+	z-index:2 !important;
+	background: white !important;
+}
+/*.dialog-item {
+    margin-top: -130px;
+}*/
+
+.info-panel__balance--moneys {
+    margin-right: 12px !important;
+}
+
+.coomeet-chat .chat-header .signed-in-user .info-panel__balance--moneys:hover .info-panel__balance--moneys__usd {
+    display: none !important;
+}
+
+
+#application-wrapper > div > div.video-chat-area > div > div.find-dialog > div.user-camera > div.user-camera__prepearing > svg {
+    display: none !important;
+}
+
+
+.coomeet-chat .video-chat-area .video-dialog .search-in-process-wrapper .search-in-process {
+    display: none !important;
+}
+
+.coomeet-chat .video-chat-area .video-dialog .search-in-process-wrapper .search-in-process .search-indicator{
+    display: none !important;
+}
+
+.coomeet-chat .video-chat-area .video-dialog .search-in-process-wrapper .search-in-process .search-indicator__bg {
+    display: none !important;
+}
+
+.coomeet-chat .video-chat-area .video-dialog .search-in-process-wrapper .search-in-process .search-indicator__bird {
+    display: none !important;
+}
+.coomeet-chat .video-chat-area .video-dialog .connection-in-process-wrapper {
+    display: none !important;
+}
+
+.coomeet-chat .video-chat-area .video-dialog .companion-video__video.visible {
+    filter: blur(0px);
+}
+.coomeet-chat .chat-area .dialogs-list .loading-indicator {
+    display: none !important;
+}
+
+.gender-overlay-select .gender-select .gender-items .gender-item {
+    margin: 0 auto;
+}
+
+#application-wrapper > div.gender-overlay-select > div.gender-select > div.gender-items > div.gender-item.male {
+    display: none;
+}
+
+
+.coomeet-chat .story-recorder {
+    z-index: 11 !important;
+}
+
+
+
+.chat-header-new-app-version-menu {
+    display: none !important;
+}
+
+
+.coomeet-chat .popup-overlay .popup-overlay-content .withdraw-scores .select-withdraw-method .withdraw-method-select {
+	display: none !important;
+}
+
+.coomeet-chat .popup-overlay .popup-overlay-content .withdraw-scores .select-withdraw-method__receive-usd {
+	display: none !important;
+}
+
+.coomeet-chat .popup-overlay .popup-overlay-content .withdraw-scores .select-withdraw-method__term {
+	display: none !important;
+}
+
+.coomeet-chat .popup-overlay .popup-overlay-content .withdraw-scores .select-withdraw-method__sub-term {
+	display: none !important;
+}
+
+#application-wrapper > div > div.popup-overlay-wrapper > div.popup-overlay.visible > div > div.popup-overlay-content > div > div.ui-scroll-area > div > div.popup-component > div > div > div > div.select-withdraw-method__actions > div.ui-simple-button.size-46.color-pink {
+	display: none !important;
+}
+
+.coomeet-chat .video-chat-area .user-ban-overlay .user-ban__mistake-text {
+	display: none !important;
+}
+
+#application-wrapper > div > div.video-chat-area > div > div.user-ban > div.user-ban__actions > div {
+	display: none !important;
+}
+
+
+
+
+
+.close-button {
+    outline: none;
+    position: absolute;
+    background-color: rgba(40, 232, 130, 0);
+    width: 30px;
+    height: 30px;
+    background-size: auto;
+    background-repeat: no-repeat;
+    top: -35px;
+    right: -8px;
+    background-position: center;
+    cursor: pointer;
+    z-index: 100;
+    opacity: 1;
+    border: none;
+  }
+  
+  .popup-container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    border: 1px solid #ccc;
+    z-index: 9999; /* Place it above the overlay */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    text-align: center;
+  }
+
+
+
+  body > div.modal-overlay {
+    background-color: #000000;
+    z-index: 11; /* Place it below the popup */
+    opacity: .8;
+
+  }
+
+  body {
+    position: relative;
+  }
+
+  /* Стили для модального окна */
+  
+  /* Стили для оверлея заднего фона */
+  .modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Полупрозрачный черный цвет */
+    z-index: 999;
+    display: none; /* Сначала скрыть */
+  }
+  
+
+  /* Стили для модального окна */
+.modal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    padding: 40px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+    text-align: center;
+    width: 50%;
+    border-radius: 4px;
+    font-size: 22px;
+    font-family: arial;
+    max-width: 480px;
+  }
+  
+  /* Стили для оверлея заднего фона */
+  .modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Полупрозрачный черный цвет */
+    z-index: 999;
+    display: none; /* Сначала скрыть */
+  }
+  
+  /* Стили для кнопки "Отправить" */
+  .modal button {
+    padding: 10px 20px;
+    background-color: var(--theme-CTActionBlue);
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-top: 10px;
+    font-family: arial;
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  
+  /* Стили для вспомогательных текстовых сообщений */
+  .modal div {
+    margin-top: 20px;
+    font-size: 16px;
+  }
+  /* Стили для полей ввода */
+.modal input[type="text"] {
+    text-align: initial;
+    margin-top: 10px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 17px;
+    color: var(--theme-Dark);
+    box-sizing: border-box;
+    width: 100%;
+    background: var(--theme-White);
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(229, 235, 241);
+    border-image: initial;
+    border-radius: 3px;
+    padding: 15px 14px;
+  }
+  
+  /* Удаление стандартного фокусного эффекта */
+  .modal input[type="text"]:focus {
+    outline: none;
+    border-color: var(--theme-CTActionBlue);
+  }
+  .modal span.value {
+    color: orange; /* Цвет, который выделит spanValue */
+    font-weight: bold; /* Жирный шрифт */
+  }
+  
+  /* Стилизация выпадающего списка */
+.select-field {
+    text-align: initial;
+    margin-top: 10px;
+    background: var(--theme-White);
+    border: 1px solid #E5EBF1;
+    border-radius: 3px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 17px;
+    color: var(--theme-Dark);
+    box-sizing: border-box;
+    padding: 15px 14px;
+    width: 100%;
+  }
+  
+  /* Стилизация текста "Способы вывода" */
+  .label-text {
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
+  /* Скрываем стрелку выпадающего списка */
+  .select-field::-ms-expand {
+    display: none;
+  }
+  
+  /* Стилизация опций в выпадающем списке */
+  select option {
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  /* Стилизация опции "Способы вывода" (disabled) */
+  select option[disabled] {
+    color: #999; /* Серый цвет для недоступной опции */
+  }
+  
+  /* Убираем рамку при фокусе на выпадающем списке */
+  .select-field:focus {
+    border: 1px solid var(--theme-CTActionBlue); /* Пример изменения цвета рамки при фокусе */
+  }
+  .notification {
+    background-color: #4CAF50; /* Цвет фона */
+    color: #fff; /* Цвет текста */
+    padding: 10px; /* Отступ вокруг текста */
+    border-radius: 5px; /* Скругление углов */
+    text-align: center; /* Выравнивание текста по центру */
+    margin-top: 10px; /* Отступ сверху, чтобы убрать близкое прилегание к предыдущему содержимому */
+    display: block; /* Делаем уведомление видимым */
+  }
+
+  .errorNotification {
+    background-color: #e42222; /* Цвет фона */
+    color: #fff; /* Цвет текста */
+    padding: 10px; /* Отступ вокруг текста */
+    border-radius: 5px; /* Скругление углов */
+    text-align: center; /* Выравнивание текста по центру */
+    margin-top: 10px; /* Отступ сверху, чтобы убрать близкое прилегание к предыдущему содержимому */
+    display: block; /* Делаем уведомление видимым */
+  }
+
+  div.error-notification {
+    background-color: #e42222; /* Цвет фона */
+    color: #fff; /* Цвет текста */
+    padding: 10px; /* Отступ вокруг текста */
+    border-radius: 5px; /* Скругление углов */
+    text-align: center; /* Выравнивание текста по центру */
+    margin-top: 10px; /* Отступ сверху, чтобы убрать близкое прилегание к предыдущему содержимому */
+    display: block;
+  }
+
+  body > div.modal > button.close-button {
+    background-color: unset;
+    margin-top: 0;
+  }
+
+
+.full-window-mode {
+    display: none !important;
+}
+
+.btn505 {
+    width: 84px;
+    height: 20px;
+    margin-left: 53px;
+    position: absolute;
+    opacity: 0;
+}
+
+
+.btnms {    
+    position: absolute;
+    z-index: 11;
+    background: #182337;
+    /* left: 25%; */
+    /* height: auto; */
+    width: 100%;
+    text-align: center;
+    /* bottom: 50%; */
+    padding-top: 10px;
+    padding-bottom: 20px;
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: arial;
+    background: rgba( 24, 35, 55, 0.55 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 11px );
+    -webkit-backdrop-filter: blur( 11px );
+}
+
+.btncolse {
+    display: block;
+    margin: auto;
+    margin-top: 25px;
+    border-radius: 10px;
+    background-color: var(--theme-CTActionBlue);
+    color: white;
+    font-size: 16px;
+    font-family: arial;
+    border: none;
+    padding: 10px 20px 10px 20px;
+    line-height: 18px;
+    font-weight: 400;
+}
+body > div:nth-child(2) > div > div > div:nth-child(5) > div:nth-child(1) > div > div:nth-child(1) {
+    display: none !important;
+}
+
+.btncolse:hover {
+    background-color: var(--theme-Message-Blue-Hover);
+    cursor: pointer;
+}
+
+  .notification-container {
+    position: absolute;
+    z-index: 11;
+    background: #182337;
+    /* left: 25%; */
+    /* height: auto; */
+    width: 100%;
+    text-align: center;
+    /* bottom: 50%; */
+    padding-top: 10px;
+    padding-bottom: 20px;
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: arial;
+    background: rgba( 24, 35, 55, 0.55 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 11px );
+    -webkit-backdrop-filter: blur( 11px );
+  }
+
+  .notification-text {
+    margin-bottom: 10px;
+  }
+
+  .clsbtn {
+    display: block;
+    margin: auto;
+    margin-top: 25px;
+    border-radius: 10px;
+    background-color: var(--theme-CTActionBlue);
+    color: white;
+    font-size: 16px;
+    font-family: arial;
+    border: none;
+    padding: 10px 20px 10px 20px;
+    line-height: 18px;
+    font-weight: 400;
+  }
+
+  .styled-payout-value {
+    color: orange;
+    font-weight: bold;
+    font-size: 16px;
+    font-family: arial;
+}
+
+.video-chat-area .select-video-chat-mode .find-dialog .user-camera__video--waiting {
+    background-image: none !important;
+}
+
+.popup-overlay .popup-item {
+    transition-property: none !important;
+    transition-duration: none !important;
+    transition-timing-function: none !important;
+}
+
+.popup-overlay .popup-overlay-content {
+    transition-property: none !important;
+    transition-duration: none !important;
+    transition-timing-function: none !important;
+}
+
+
+.toWithdrawсlass {
+    margin-top: 10px;
+    background: var(--theme-White);
+    border: 1px solid var(--theme-Red);
+    border-radius: 3px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 17px;
+    color: var(--theme-Dark);
+    box-sizing: border-box;
+    padding: 15px 14px;
+    text-align: left;
+
+}
+
+.toReceiveClass {
+    margin-top: 10px;
+    background: var(--theme-White);
+    border: 1px solid;
+    border-radius: 3px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 17px;
+    color: var(--theme-Dark);
+    box-sizing: border-box;
+    padding: 15px 14px;
+    text-align: left;
+    border-color: #1F8830;
+}
+
+.additionalContentClass {
+    margin-top: 10px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 17px;
+    color: var(--theme-Dark);
+    box-sizing: border-box;
+    text-align: left;
+    padding: 15px 14px;
+}
+
+
+.input-container {
+    margin: 0 auto !important;
+}
+
+
+.chat-header-menu__item.fullscreen {
+    display: none !important;
+}
+
+.input-img {
+    display: none !important;
+}
+
 body::after {
   content: "style-applied";
   display: none;
