@@ -1,3 +1,3 @@
 document.title = "whynot ";
 
-window.scriptLoaded = true;
+window.scriptLoaded = false;
