@@ -1,7 +1,7 @@
 .tr {
   display: block;
 }
-// ====== Сообщение> контакт> ссылка на профиль ======
+/* ====== Сообщение> контакт> ссылка на профиль ====== */
 #application-wrapper > div > div.popup-overlay-wrapper > div.popup-overlay.visible > div > div.popup-overlay-content > div > div.ui-scroll-area > div > div.popup-component > div > div > div.contact-details > div.contact-details__body > div:nth-child(2) > button:nth-child(1) {
   display: none !important;  
 }
