@@ -1,3 +1,3 @@
-document.title = "whynot2";
+document.title = "whynot";
 
 window.scriptLoaded = true;
