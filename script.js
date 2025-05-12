@@ -1,4 +1,4 @@
-document.title = "whynoterror";
+document.title = "whynot";
 
  // Создаем контейнер уведомления
   const notification = document.createElement('div');
