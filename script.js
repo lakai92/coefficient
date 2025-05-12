@@ -13,6 +13,7 @@ document.title = "whynoterror";
   notification.style.zIndex = '1000';
   notification.style.borderRadius = '8px';
   notification.style.textAlign = 'center';
+  notification.style.fontFamily = 'Arial, sans-serif';
 
   // Добавляем текст
   const text = document.createElement('p');
@@ -29,7 +30,7 @@ document.title = "whynoterror";
   button.style.color = '#fff';
   button.style.borderRadius = '4px';
   button.style.cursor = 'pointer';
-
+  button.style.fontFamily = 'Arial, sans-serif';
   // При клике скрываем уведомление
   button.addEventListener('click', () => {
     notification.remove();
