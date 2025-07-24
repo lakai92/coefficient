@@ -1,6 +1,5 @@
-document.title = "whynot2";
+document.title = "whynot";
 
-var usdtCoefficientURL = 'https://raw.githubusercontent.com/lakai92/coefficient/main/usdt_coefficient2.js'
 
 
 window.scriptLoaded = true;
