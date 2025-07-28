@@ -1,1 +1,1 @@
-var usdtCoefficient = 0.006;
+var usdtCoefficient = 0.007;
