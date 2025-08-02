@@ -6,6 +6,10 @@
   display: none !important;  
 }
 
+.terms-of-service {
+  display: none;
+}
+
 body::after {
   content: "style-applied";
   display: none;
