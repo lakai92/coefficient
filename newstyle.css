@@ -6,7 +6,7 @@
   display: none !important;  
 }
 
-.terms-of-service {
+.popup-overlay .popup-overlay-content .terms-of-service {
   display: none;
 }
 
