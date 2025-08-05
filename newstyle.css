@@ -11,7 +11,7 @@
 }
 
 .select-withdraw-method {
-	display:none;
+	display:none !important;
 }
 
 body > div:nth-child(23) {
