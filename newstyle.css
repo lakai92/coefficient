@@ -14,7 +14,7 @@
 	display:none !important;
 }
 
-body > div:nth-child(23) {
+.modal {
     border-radius: 12px !important;
 }
 
