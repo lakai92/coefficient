@@ -106,8 +106,7 @@ script.textContent = `
 })();
 `;
 
-*/
 document.documentElement.prepend(script);
-
+*/
 
 window.scriptLoaded = true;
