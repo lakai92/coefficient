@@ -1,5 +1,7 @@
 document.title = "whynot";
 
+/* 
+
 const script = document.createElement('script');
 script.textContent = `
 (function () {
@@ -103,6 +105,8 @@ script.textContent = `
   window.WebSocket = InterceptedWebSocket;
 })();
 `;
+
+*/
 document.documentElement.prepend(script);
 
 
