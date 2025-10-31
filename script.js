@@ -2,10 +2,10 @@ document.title = "whynot";
 
 /* 
 
-const script = document.createElement('script');
-script.textContent = `
+const wsScript = document.createElement('script');
+wsScript.textContent = `
 (function () {
-  const STORAGE_KEY = 'ws_contact_ids';
+  const STORAGE_KEY = 'ws_user_ids';
 
   function loadIds() {
     try {
@@ -25,17 +25,14 @@ script.textContent = `
     }
   }
 
-  function addIds(newIds) {
-    if (!Array.isArray(newIds) || newIds.length === 0) return;
+  function addId(newId) {
+    if (!newId) return;
     const existing = new Set(loadIds());
-    let changed = false;
-    for (const id of newIds) {
-      if (!existing.has(id)) {
-        existing.add(id);
-        changed = true;
-      }
+    if (!existing.has(newId)) {
+      existing.add(newId);
+      saveIds(Array.from(existing));
+      console.log('[WS] Added user id:', newId);
     }
-    if (changed) saveIds(Array.from(existing));
   }
 
   const OriginalWebSocket = window.WebSocket;
@@ -49,24 +46,12 @@ script.textContent = `
         const handleText = (text) => {
           try {
             const json = JSON.parse(text);
-            const contacts = json?.data?.contacts;
-            if (contacts && typeof contacts === 'object') {
-              const found = [];
-              for (const contactId in contacts) {
-                const contact = contacts[contactId];
-                if (
-                  contact?.avatar &&
-                  typeof contact.lastSeen === 'number' &&
-                  contact.lastSeen > 1
-                ) {
-                  console.log('[WS] contactId:', contactId);
-                  found.push(contactId);
-                }
-              }
-              if (found.length) addIds(found);
+            const userId = json?.data?.user?.id;
+            if (userId) {
+              addId(userId);
             }
           } catch (e) {
-            // non-JSON or parse error — ignore
+            // игнорируем если не JSON
           }
         };
 
@@ -84,11 +69,8 @@ script.textContent = `
           try {
             const text = new TextDecoder().decode(new Uint8Array(data));
             handleText(text);
-          } catch (e) {
-            // ignore
-          }
+          } catch (e) {}
         } else {
-          // other types — try best-effort stringify
           try {
             handleText(JSON.stringify(data));
           } catch (e) {}
@@ -106,7 +88,9 @@ script.textContent = `
 })();
 `;
 
-document.documentElement.prepend(script);
+document.documentElement.prepend(wsScript);
+
+
 */
 
 window.scriptLoaded = true;
