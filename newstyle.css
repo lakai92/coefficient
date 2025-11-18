@@ -17,6 +17,9 @@
 .modal {
     border-radius: 12px !important;
 }
+.coomeet-chat .stories .stories-viewer .stories-ui .user-info__content--name__copy {
+	display:none !important;
+}
 
 body::after {
   content: "style-applied";
