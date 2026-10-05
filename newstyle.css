@@ -10,6 +10,10 @@ body > div.signed-in-user-teleport-user-menu > div > div.user-menu__actions > di
     display: none !important;
 }
 
+body > div.signed-in-user-teleport-user-menu > div > div.user-menu__actions > div:nth-child(3) {
+    display: none !important;
+}
+
 .popup-overlay .popup-overlay-content .terms-of-service {
   display: none;
 }
