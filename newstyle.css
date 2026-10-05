@@ -6,6 +6,10 @@
   display: none !important;  
 }
 
+.install-app {
+	display: none !important;
+}
+
 .signed-in-user-teleport-user-menu .user-menu__actions--item:nth-child(4) {
     display: none !important;
 }
