@@ -40,6 +40,192 @@
 
 
 
+.terms-block {
+    display: none !important;
+}
+
+.auth-section__social {
+    display: none !important;
+}
+
+.social-buttons social-buttons--female {
+    display: none !important;
+}
+
+.auth-section__recovery-full {
+    display: none !important;
+}
+
+.auth-section__policy {
+    display: none !important;
+}
+
+.auth-section__toggle {
+    display: none !important;
+}
+
+.user-menu__item.user-menu__item--install {
+    display: none !important;
+}
+
+.user-menu__item.user-menu__item--report {
+    display: none !important;
+}
+.screen-profile__username {
+    display: none !important;
+}
+
+.profile-username {
+    display: none !important;
+}
+
+.screen-profile__link {
+    display: none !important;
+}
+
+.profile-share-link {
+    display: none !important;
+}
+
+.profile-share-link__title {
+    display: none !important;
+}
+
+.profile-share-link__actions {
+    display: none !important;
+}
+
+.profile-settings__body {
+    display: none !important;
+}
+
+.settings-form {
+    display: none !important;
+}
+
+.settings-form__header {
+    display: none !important;
+}
+
+.settings-form__body {
+    display: none !important;
+}
+
+.screen-profile__settings {
+    display: none !important;
+}
+
+.profile-settings {
+    display: none !important;
+}
+
+.screen-profile__logout {
+    display: none !important;
+}
+
+.profile-logout {
+    display: none !important;
+}
+
+.referrals__link {
+    display: none !important;
+}
+
+.referrals-link {
+    display: none !important;
+}
+
+.withdraw {
+    display: none !important;
+}
+
+.withdraw-start {
+    display: none !important;
+}
+
+.withdraw-buttons {
+    display: none !important;
+}
+
+.money-badge__usd {
+    display: none !important;
+}
+
+#nav-slot > nav > div.nav-bar__tabs > button:nth-child(10) {
+    display: none !important;
+}
+
+.settings-notifications {
+    display: none !important;
+}
+
+#modal-slot > div > div > div.modal-overlay__content.scroll-area > div > div > div > div.quick-settings__sections > div:nth-child(1) {
+    display: none !important;
+}
+
+.screen-top__title {
+    display: none !important;
+}
+
+.virtual-list__header {
+    display: none !important;
+}
+
+.supports {
+    display: none !important;
+}
+
+.feed-bot-panel__buttons {
+    display: none !important;
+}
+
+#screen-slot > div > div.screen-messenger__sidebar > div > div.virtual-list.contacts__list > div.virtual-list__scroller > div > div.virtual-list__header > button {
+    display: none !important;
+}
+
+[data-contact-id="101"] {
+    display: none !important;
+}
+
+[data-contact-id="104"] {
+    display: none !important;
+}
+
+[data-contact-id="106"] {
+    display: none !important;
+}
+
+.confirm-dialog.double-enter {
+    display: none !important;
+}
+
+.auth-section--registration {
+    display: none !important;
+}
+
+#modal-slot > div > div > div.modal-overlay__content.scroll-area > div > div > div > div > div.overview__actions.scroll-area > div > div > button:nth-child(3) {
+    display: none !important;
+}
+
+.temporary-ban__mistake {
+    display: none !important;
+}
+
+.temporary-ban__button {
+    display: none !important;
+}
+
+.gender-option--male {
+    display: none !important;
+}
+
+.registration-with-gifts {
+    display: none !important;
+}
+
+
+
+
 
 
 
