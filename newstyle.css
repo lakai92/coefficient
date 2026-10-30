@@ -1,3 +1,7 @@
+#body {
+	display:none !important;
+}
+
 .tr {
   display: block;
 }
